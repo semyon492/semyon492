@@ -14,3 +14,9 @@ In my free time, I create and maintain various open source projects of my own, s
 - [Sura](https://github.com/semyon492/sura) - The Sura framework
 
 Working on open-source is my great joy in life and I want to be able to do that as much and as long as I possible can. I hope you like what I work on and that some of it is useful to you. Thanks for visiting!
+
+<p align="left">
+  <a href="https://github.com/semyon492">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semyon492&layout=compact" />
+    </a>
+</p>
