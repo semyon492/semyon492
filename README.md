@@ -14,3 +14,10 @@ In my free time, I create and maintain various open source projects of my own, s
 - [Sura](https://github.com/semyon492/sura) - The Sura framework
 
 Working on open-source is my great joy in life and I want to be able to do that as much and as long as I possible can. I hope you like what I work on and that some of it is useful to you. Thanks for visiting!
+
+<h2 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://github.com/semyon492" target="_blank">
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=semyon492&skills=JavaScript,SCSS,Less,CSS,HTML,PHP&width=820&bg=transparent&branding=false" alt="CodersRank skills chart"/>
+  </a>
+</p>
