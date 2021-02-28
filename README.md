@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/Semyon492/Semyon492/master/php.gif" width="200" />
+<img style="float: right" align="right" src="https://raw.githubusercontent.com/Semyon492/Semyon492/master/php.gif" width="200" />
 
 <p align="left">
-  <a href="https://github.com/semyon492">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=semyon492&hide=issues&hide_title=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-    </a>
+<a href="https://github.com/semyon492">
+  <img src="https://github-readme-stats.vercel.app/api?username=semyon492&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" />
+</a>
 </p>
+
+
 
 I'm [Semyon](https://vk.com/semyon492), open-source maintainer.
 
