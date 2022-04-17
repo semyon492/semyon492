@@ -23,3 +23,4 @@ Working on open-source is my great joy in life and I want to be able to do that 
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=semyon492&skills=JavaScript,SCSS,Less,CSS,HTML,PHP&width=820&bg=transparent&branding=false" alt="CodersRank skills chart"/>
   </a>
 </p>
+![](https://hit.yhype.me/github/profile?user_id=22177963)
