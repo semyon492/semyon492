@@ -12,7 +12,7 @@ I'm [Semyon](https://vk.com/semyon492), open-source maintainer.
 
 In my free time, I create and maintain various open source projects of my own, such as:
 
-- [Sura](https://github.com/semyon492/vii) - The social network
+- [Sura](https://github.com/semyon492/sura) - The social network
 
 Working on open-source is my great joy in life and I want to be able to do that as much and as long as I possible can. I hope you like what I work on and that some of it is useful to you. Thanks for visiting!
 
