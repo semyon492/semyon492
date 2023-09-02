@@ -18,3 +18,9 @@ Working on open-source is my great joy in life and I want to be able to do that 
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=semyon492&skills=JavaScript,SCSS,Less,CSS,HTML,PHP&width=820&bg=transparent&branding=false" alt="CodersRank skills chart"/>
   </a>
 </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=semyon492&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=semyon492&layout=compact&langs_count=8&card_width=320&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true" />
+</a>
