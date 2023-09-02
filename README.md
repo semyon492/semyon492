@@ -15,7 +15,7 @@ Working on open-source is my great joy in life and I want to be able to do that 
 ## Languages and Tools:
 <p align="center">
   <a href="https://github.com/semyon492" target="_blank">
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=semyon492&skills=JavaScript,SCSS,Less,CSS,HTML,PHP&width=820&bg=transparent&branding=false" alt="CodersRank skills chart"/>
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=semyon492&skills=JavaScript,SCSS,CSS,HTML,PHP&width=820&bg=transparent&branding=false&show-other-skills=true" alt="CodersRank skills chart"/>
   </a>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
