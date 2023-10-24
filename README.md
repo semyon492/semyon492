@@ -8,7 +8,7 @@
 </a>
 </p>
 
-I'm [Semyon](https://vk.com/semyon492), open-source maintainer.
+I'm Semyon, open-source maintainer.
 
 Working on open-source is my great joy in life and I want to be able to do that as much and as long as I possible can. I hope you like what I work on and that some of it is useful to you. Thanks for visiting!
 
